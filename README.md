@@ -1,6 +1,8 @@
 📘 COMPLETE MACHINE LEARNING TEMPLATE
-🔷 REGRESSION (Predict Continuous Values)
+------------------------------------------------
+🔷 REGRESSION (Predict Continuous Values
 👉 Output: Numbers (Price, Score, Salary)
+
 📌 Algorithms
 1.Simple Linear Regression
 2.Multiple Linear Regression
