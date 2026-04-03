@@ -4,6 +4,7 @@
 👉 Output: Numbers (Price, Score, Salary)
 
 📌 Algorithms
+-----------------------------------------------
 1.Simple Linear Regression
 2.Multiple Linear Regression
 3.Polynomial Regression
@@ -17,9 +18,11 @@
 7.Decision Tree Regression
 
 
-🔷 CLASSIFICATION (Predict Categories)
+🔷 CLASSIFICATION (Predict Categories
+--------------------------------------------------
 👉 Output: Yes/No, Spam/Not Spam
 📌 Algorithms
+--------------------------------------------------
 1.Logistic Regression
 1.Support Vector Machine
 3.K-Nearest Neighbors
@@ -44,14 +47,16 @@ K-Fold Cross Validation
 Hyperparameter Tuning
 
 
-
-CLUSTER:-
-------------------------
-KMeans--Clustering means (Group)
-WCSS--(Within Cluster Sum of Square)
-1- KMeans- Clustering(Xaxis-no of cluster/Yaxis-WCSS/find ,built  Elbow method)
-2-Hierarchical Clustering(Dendogram/Agglomertive/Devisive)
-3-dbscan Clustering (detect outlier)
-4-PCA-(Principal Compnent Analysis)(reduce overfitting)
+🔷 CLUSTERING (Unsupervised Learning)
+-----------------------------------------------
+👉 Output: Groups (No Labels)
+📌 Algorithms & Concepts
+-------------------------------------------------
+1. K-Means Clustering
+Group data into clusters
+WCSS (Within Cluster Sum of Squares)
+Elbow Method:
+X-axis → Number of clusters
+Y-axis → WCSS
 
 
