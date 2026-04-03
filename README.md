@@ -2,7 +2,6 @@
 ------------------------------------------------
 🔷 REGRESSION (Predict Continuous Values
 👉 Output: Numbers (Price, Score, Salary)
-
 📌 Algorithms
 -----------------------------------------------
 1.Simple Linear Regression
@@ -16,6 +15,8 @@
 6.K-Nearest Neighbors
 .Distance: Euclidean / Manhattan
 7.Decision Tree Regression
+
+
 
 
 🔷 CLASSIFICATION (Predict Categories
@@ -47,6 +48,8 @@ K-Fold Cross Validation
 Hyperparameter Tuning
 
 
+
+
 🔷 CLUSTERING (Unsupervised Learning)
 -----------------------------------------------
 👉 Output: Groups (No Labels)
@@ -59,4 +62,17 @@ Elbow Method:
 X-axis → Number of clusters
 Y-axis → WCSS
 
+2. Hierarchical Clustering
+Types:
+.Agglomerative (bottom → up)
+.Divisive (top → down)
+.Dendrogram (tree diagram)
 
+3. DBSCAN
+.Detects outliers
+.Forms clusters based on density
+
+5. Principal Component Analysis (PCA)
+.Reduces dimensions
+.Helps avoid overfitting
+.Improves visualization
