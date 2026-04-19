@@ -1,4 +1,4 @@
-Auther -:ABHISHEK SAHOO
+Author: ABHISHEK SAHOO
 
 📘 COMPLETE MACHINE LEARNING TEMPLATE
 ------------------------------------------------
